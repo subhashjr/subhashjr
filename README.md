@@ -80,5 +80,5 @@
 <a href="https://github.com/subhashjr?tab=followers"><img src="https://img.shields.io/github/followers/subhashjr?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <p align="center">
-<a href="#"><img width="50%" height="50%" src="https://i.pinimg.com/originals/1a/1c/80/1a1c80c0512cadbd6e580cd9add812bf.jpg"/></a>
+<a href="#"><img width="500px" height="500px" src="https://i.pinimg.com/originals/1a/1c/80/1a1c80c0512cadbd6e580cd9add812bf.jpg"/></a>
 </p>
