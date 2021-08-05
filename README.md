@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently pursuing Bachelor of Computer Science from  **[College of Engineering Atingal](http://ceattingal.ac.in/ceal/)**
 
-- 🌱 I’m currently learning **What is Computer Science?**
+- 🌱 I’m currently learning **Answers to your Questions!**
 
 - 🔭 I’m currently working on **Web Developement**
 
