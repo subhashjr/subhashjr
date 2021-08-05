@@ -1,4 +1,3 @@
-<a href="#"><img width="100%" height="auto" src="https://i.pinimg.com/originals/1a/1c/80/1a1c80c0512cadbd6e580cd9add812bf.jpg" height="30%"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Joash</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
@@ -78,3 +77,6 @@
     <img src="https://komarev.com/ghpvc/?username=subhashjr">
 </a>
 <a href="https://github.com/subhashjr?tab=followers"><img src="https://img.shields.io/github/followers/subhashjr?label=Followers&style=social" alt="GitHub Badge"></a>
+
+<a href="#"><img width="100%" height="auto" src="https://i.pinimg.com/originals/1a/1c/80/1a1c80c0512cadbd6e580cd9add812bf.jpg" height="30%"/></a>
+
