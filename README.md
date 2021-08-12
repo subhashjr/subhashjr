@@ -1,4 +1,4 @@
-<p align="center"><a href="#"><img width="100%" height="500px" src="https://images.unsplash.com/photo-1531297484001-80022131f5a1?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dGVjaHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80" /></a></p>
+<p align="center"><a href="#"><img width="750px" height="500px" src="https://images.unsplash.com/photo-1531297484001-80022131f5a1?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dGVjaHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80" /></a></p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Joash</h1>
 <h3 align="center">I'm a passionate Youth from India.</h3>
