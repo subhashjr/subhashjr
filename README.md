@@ -3,7 +3,7 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=subhashjr" align="center">
 </a>
-<a href="https://github.com/subhashjr?tab=followers"><img src="https://img.shields.io/github/followers/subhashjr?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/subhashjr?tab=followers"><img src="https://img.shields.io/github/followers/subhashjr?label=Followers&style=social" alt="GitHub Badge" align="center"></a>
 
 <h3 align="center">I'm a passionate Youth from India.</h3>
 
