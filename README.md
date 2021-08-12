@@ -9,13 +9,11 @@
 
 - 🔫 I graduated from **[Loyola School, Trivandrum](https://www.loyolaschooltrivandrum.com/)**
 
-- 🔭 I’m currently pursuing Bachelor of Computer Science from  **[College of Engineering Atingal](http://ceattingal.ac.in/ceal/)**
+- 🔭 I’m currently pursuing Bachelor of Technology in Computer Science from  **[College of Engineering Atingal](http://ceattingal.ac.in/ceal/)**
 
-- 🌱 I’m currently learning **The answers to your Questions!**
+- 🌱 I’m currently learning **The answers to your Questions!🤹‍♂️**
 
-- 🔭 I’m currently working on **Web Developement**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 🔭 I’m currently working on **Web Developement / App Developement / Competitive Programming**
 
 - ✨ I’m looking to collaborate on Github with people who can help expand my skills while helping them too.
 
