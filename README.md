@@ -72,11 +72,5 @@
 <a href = "https://youtu.be/3V8P--Y-HhY"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 </p>
 
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=subhashjr">
-</a>
-<a href="https://github.com/subhashjr?tab=followers"><img src="https://img.shields.io/github/followers/subhashjr?label=Followers&style=social" alt="GitHub Badge"></a>
-
 <h4 align="center"> You did great guys!! Thanks for visiting!🔫</h4>
 <h6 align="center"> **Joash S**</h6>
