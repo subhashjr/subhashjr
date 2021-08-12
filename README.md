@@ -78,9 +78,5 @@
 </a>
 <a href="https://github.com/subhashjr?tab=followers"><img src="https://img.shields.io/github/followers/subhashjr?label=Followers&style=social" alt="GitHub Badge"></a>
 
-<p align="center">
-<a href="#"><img width="50%" height="500px" src="https://i.pinimg.com/originals/1a/1c/80/1a1c80c0512cadbd6e580cd9add812bf.jpg"/></a>
-</p>
-
 <h4 align="center"> You did great guys!! Thanks for visiting!🔫</h4>
 <h6 align="center"> **Joash S**</h6>
