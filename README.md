@@ -4,6 +4,9 @@
 
 
 ## 🙋‍♂️ About Me
+<a target="_blank">
+  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/ATS527/ATS527/blob/main/introImage.gif">
+</a>
 
 - 🔫 I graduated from **[Loyola School, Trivandrum](https://www.loyolaschooltrivandrum.com/)**
 
