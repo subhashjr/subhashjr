@@ -1,4 +1,4 @@
-<p align="center"><a href="#"><img width="500px" height="500px" src="https://d2o2d07mcokwyq.cloudfront.net/app/uploads/2020/09/08145740/Domcake-Dancing-Alien.gif" /></a></p>
+//<p align="center"><a href="#"><img width="500px" height="500px" src="https://d2o2d07mcokwyq.cloudfront.net/app/uploads/2020/09/08145740/Domcake-Dancing-Alien.gif" /></a></p>//
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Joash</h1>
 <h3 align="center">I'm a passionate Youth from India.</h3>
