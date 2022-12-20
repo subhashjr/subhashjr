@@ -10,7 +10,7 @@
 
 ## 🙋‍♂️ About Me
 <a target="_blank">
-  <img align="right" height="400" width="400" alt="GIF" src="https://www.therelicans.com/images/L4t3ZiNZK7oKHXzn2bNAdEC8OOmntV-cSNw21ykWVVs/w:880/mb:500000/aHR0cHM6Ly9kZXYt/dG8tdXBsb2Fkcy5z/My5hbWF6b25hd3Mu/Y29tL3VwbG9hZHMv/YXJ0aWNsZXMvaWN4/aXBmZW9hdXFmZWhn/c3F3cnouZ2lm">
+  <img align="right" height="400" width="400" alt="GIF" src="[https://www.therelicans.com/images/L4t3ZiNZK7oKHXzn2bNAdEC8OOmntV-cSNw21ykWVVs/w:880/mb:500000/aHR0cHM6Ly9kZXYt/dG8tdXBsb2Fkcy5z/My5hbWF6b25hd3Mu/Y29tL3VwbG9hZHMv/YXJ0aWNsZXMvaWN4/aXBmZW9hdXFmZWhn/c3F3cnouZ2lm](https://octodex.github.com/images/daftpunktocat-thomas.gif)">
 </a>
 
 - 🔫 I graduated from **[Loyola School, Trivandrum](https://www.loyolaschooltrivandrum.com/)**
